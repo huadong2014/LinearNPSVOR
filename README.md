@@ -1,4 +1,0 @@
-# LinearNPSVOR
-# L2NPSVOR
-# LinearNPSVOR
-# LinearNPSVOR
